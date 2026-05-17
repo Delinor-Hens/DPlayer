@@ -15,6 +15,10 @@
 
 * **Операционная система:** Windows 10 / 11 (64-bit)
 * **Дополнительно:** Нет требований
+  
+## 🎵 Скриншоты работы приложения
+
+<img width="846" height="927" alt="image" src="https://github.com/user-attachments/assets/ddb23d25-9a0a-4010-b7df-161139bcf5bb" />
 
 ## 🤝 Обратная связь
 
