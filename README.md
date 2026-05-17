@@ -20,7 +20,9 @@
   
 ## 🎵 Скриншоты работы приложения
 
-<img width="846" height="927" alt="image" src="https://github.com/user-attachments/assets/ddb23d25-9a0a-4010-b7df-161139bcf5bb" />
+<img width="843" height="899" alt="image" src="https://github.com/user-attachments/assets/48c14fd5-7687-4207-bcc2-a67f815208ea" />
+
+
 
 ## 🤝 Обратная связь
 
