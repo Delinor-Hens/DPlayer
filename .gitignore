@@ -1,8 +1,8 @@
 *
 !*/
-!DPlayer.py
-!DPlayer.ico
-!DPlayer.png
-!README.md
-!LICENSE
+!*.py
+!*.ico
+!*.png
+!*.md
 !.gitignore
+!LICENSE
